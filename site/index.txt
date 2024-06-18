@@ -23,5 +23,7 @@ expect some changes soon :3
 changelog ----------------------------------------------------------------------
 
 6/18/2024 | added a proper favicon, also changed the frontpage to be less dark..
+          | updated 404.html+template.html too lol
+
 6/17/2024 | started working on the other folders lol
 6/10/2024 | pushed out the very first revision of the site :D
