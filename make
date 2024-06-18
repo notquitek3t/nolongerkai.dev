@@ -49,6 +49,7 @@ page() {
 
 main() {
     rm -rf docs && mkdir -p docs
+    echo k3t.xyz > docs/CNAME
     url=https://github.com/Somekat/k3t.xyz
     (cd site && find . ! -type d) |
 
@@ -56,6 +57,7 @@ main() {
         printf '%s\n' "CC $page"
         page "$page"
         rm docs/$page
+        cp site/favicon.ico docs/
     done
 }
 
