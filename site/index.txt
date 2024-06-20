@@ -22,6 +22,7 @@ expect some changes soon :3
 
 changelog ----------------------------------------------------------------------
 
+6/20/2024 | kot update
 6/18/2024 | added a proper favicon, also changed the frontpage to be less dark..
           | updated 404.html+template.html too lol
 
