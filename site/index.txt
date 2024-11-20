@@ -1,6 +1,6 @@
 +------------------------------------------------------------------------------+
 |                                                                              |
-|                                                    (Created by <a class="rainbow" href="https://github.com/notquitek3t">k3t</a>)      |
+|                                                    (Created by <a color="purple" href="https://github.com/notquitek3t">k3t</a>)          |
 |                                                                              |
 | k3t's cottage                                                                |
 |                                                                              |
