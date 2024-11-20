@@ -1,6 +1,6 @@
 +------------------------------------------------------------------------------+
 |                                                                              |
-|                                                    (Created by <a style=color:#AB48DA href="https://github.com/Somekat">k3t</a>)          |
+|                                                    (Created by <a class="rainbow" href="https://github.com/notquitek3t">k3t</a>)      |
 |                                                                              |
 | k3t's cottage                                                                |
 |                                                                              |
@@ -22,6 +22,7 @@ expect some changes soon :3
 
 changelog ----------------------------------------------------------------------
 
+11/20/2024| been a damn while, adding some links, changing basic things around.
 6/20/2024 | kot update
 6/18/2024 | added a proper favicon, also changed the frontpage to be less dark..
           | updated 404.html+template.html too lol
