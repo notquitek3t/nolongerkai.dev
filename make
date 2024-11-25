@@ -23,18 +23,9 @@ txt2html() {
     sed -E "s|^([ -]*)\[([0-9\.]*)\]|\1<span id=\2>[\2]</span>|g" |
     sed -E "s|([^\"#])\[([0-9\.]*)\]|\1[<a class=t href=#\2>\2</a>]|g" |
 
-    # Add the page header
-    sed -E '/%%HEADER%%/r /dev/stdin' header.html |
-    sed -E '/%%HEADER%%/d' |
-
     # Insert the page into the template.
     sed -E '/%%CONTENT%%/r /dev/stdin' template.html |
     sed -E '/%%CONTENT%%/d' |
-
-    # Add the page footer
-    sed -E '/%%FOOTER%%/r /dev/stdin' footer.html |
-    sed -E '/%%FOOTER%%/d' |
-
 
     # Insert the page path into the source URL.
     sed -E "s	%%TITLE%%	${2:-home}	"
@@ -59,7 +50,7 @@ page() {
 main() {
     rm -rf docs && mkdir -p docs
     echo k3t.xyz > docs/CNAME
-    url=https://github.com/Somekat/k3t.xyz
+    url=https://github.com/notquitek3t/k3t.xyz
     (cd site && find . ! -type d) |
 
     while read -r page; do
