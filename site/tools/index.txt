@@ -12,8 +12,16 @@ ________________________________________________________________________________
 This place is where I'll be putting some of the random utilties I code that
 people might find helpful.
 
+[002] Projects
+________________________________________________________________________________
+nqk snippets - snippets that i've made that others might want to use.
+<a href="https://github.com/notquitek3t/snippets">View on GitHub</a>
 
-[002] Games
+Blocky - lightweight docker based dns server, replaces Pi-Hole entirely.
+<a href="https://0xerr0r.github.io/blocky">View on their site</a>
+
+
+[003] Games
 ________________________________________________________________________________
 
 PyxelLauncher - A Minecraft Launcher in under 25mb :3
