@@ -22,6 +22,8 @@ expect some changes soon :3
 
 changelog ----------------------------------------------------------------------
 
+1/30/2025 | migrated to da new domain, while mildy silly, wtf am i doing with my
+            life
 11/25/2024| Updated the Crazy Community invite link lol
 11/20/2024| been a damn while, adding some links, changing basic things around.
 6/20/2024 | kot update

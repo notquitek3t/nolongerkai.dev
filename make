@@ -49,8 +49,8 @@ page() {
 
 main() {
     rm -rf docs && mkdir -p docs
-    echo k3t.xyz > docs/CNAME
-    url=https://github.com/notquitek3t/k3t.xyz
+    echo nolongerkai.dev > docs/CNAME
+    url=https://github.com/notquitek3t/nolongerkai.dev
     (cd site && find . ! -type d) |
 
     while read -r page; do
