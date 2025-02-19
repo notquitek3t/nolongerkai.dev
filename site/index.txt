@@ -22,6 +22,7 @@ expect some changes soon :3
 
 changelog ----------------------------------------------------------------------
 
+2/19/2024 | replacing the old socials with the new ones...
 1/30/2025 | migrated to da new domain, while mildy silly, wtf am i doing with my
             life
 11/25/2024| Updated the Crazy Community invite link lol
